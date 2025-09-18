@@ -49,5 +49,15 @@ Thumbs.db
 *.tmp
 *.temp
 
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Security and secrets
+*.pem
+*.key
+.env*
+
 # Claude Code settings
 /.claude
